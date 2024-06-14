@@ -1,0 +1,15 @@
+C:\samples\source\GradesMethod\bin\Debug\net8.0\GradesMethod.exe
+C:\samples\source\GradesMethod\bin\Debug\net8.0\GradesMethod.deps.json
+C:\samples\source\GradesMethod\bin\Debug\net8.0\GradesMethod.runtimeconfig.json
+C:\samples\source\GradesMethod\bin\Debug\net8.0\GradesMethod.dll
+C:\samples\source\GradesMethod\bin\Debug\net8.0\GradesMethod.pdb
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.AssemblyInfoInputs.cache
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.AssemblyInfo.cs
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.csproj.CoreCompileInputs.cache
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.dll
+C:\samples\source\GradesMethod\obj\Debug\net8.0\refint\GradesMethod.dll
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.pdb
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.genruntimeconfig.cache
+C:\samples\source\GradesMethod\obj\Debug\net8.0\ref\GradesMethod.dll
+C:\samples\source\GradesMethod\obj\Debug\net8.0\GradesMethod.sourcelink.json

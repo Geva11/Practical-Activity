@@ -1,0 +1,15 @@
+C:\samples\source\AddingDaysMethod\bin\Debug\net8.0\AddingDaysMethod.exe
+C:\samples\source\AddingDaysMethod\bin\Debug\net8.0\AddingDaysMethod.deps.json
+C:\samples\source\AddingDaysMethod\bin\Debug\net8.0\AddingDaysMethod.runtimeconfig.json
+C:\samples\source\AddingDaysMethod\bin\Debug\net8.0\AddingDaysMethod.dll
+C:\samples\source\AddingDaysMethod\bin\Debug\net8.0\AddingDaysMethod.pdb
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.AssemblyInfoInputs.cache
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.AssemblyInfo.cs
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.csproj.CoreCompileInputs.cache
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.sourcelink.json
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.dll
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\refint\AddingDaysMethod.dll
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.pdb
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\AddingDaysMethod.genruntimeconfig.cache
+C:\samples\source\AddingDaysMethod\obj\Debug\net8.0\ref\AddingDaysMethod.dll

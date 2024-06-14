@@ -1,0 +1,14 @@
+C:\samples\source\GenerationMethods\bin\Debug\net8.0\GenerationMethods.exe
+C:\samples\source\GenerationMethods\bin\Debug\net8.0\GenerationMethods.deps.json
+C:\samples\source\GenerationMethods\bin\Debug\net8.0\GenerationMethods.runtimeconfig.json
+C:\samples\source\GenerationMethods\bin\Debug\net8.0\GenerationMethods.dll
+C:\samples\source\GenerationMethods\bin\Debug\net8.0\GenerationMethods.pdb
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.AssemblyInfoInputs.cache
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.AssemblyInfo.cs
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.csproj.CoreCompileInputs.cache
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.dll
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\refint\GenerationMethods.dll
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.pdb
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\GenerationMethods.genruntimeconfig.cache
+C:\samples\source\GenerationMethods\obj\Debug\net8.0\ref\GenerationMethods.dll

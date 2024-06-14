@@ -1,0 +1,14 @@
+C:\samples\source\DateNameMethod\bin\Debug\net8.0\DateNameMethod.exe
+C:\samples\source\DateNameMethod\bin\Debug\net8.0\DateNameMethod.deps.json
+C:\samples\source\DateNameMethod\bin\Debug\net8.0\DateNameMethod.runtimeconfig.json
+C:\samples\source\DateNameMethod\bin\Debug\net8.0\DateNameMethod.dll
+C:\samples\source\DateNameMethod\bin\Debug\net8.0\DateNameMethod.pdb
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.AssemblyInfoInputs.cache
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.AssemblyInfo.cs
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.csproj.CoreCompileInputs.cache
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.dll
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\refint\DateNameMethod.dll
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.pdb
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\DateNameMethod.genruntimeconfig.cache
+C:\samples\source\DateNameMethod\obj\Debug\net8.0\ref\DateNameMethod.dll
